@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sebas\\OneDrive - htl-donaustadt.at\\POS1\\Z_Eigene Programme PRIVAT\\CBER Reactor\\CBER-Reactor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DE5176C-470E-ADA7-A6B4-D4644CFE870E}|CBER Reactor\\CBER Reactor.csproj|c:\\users\\sebas\\onedrive - htl-donaustadt.at\\pos1\\z_eigene programme privat\\cber reactor\\cber-reactor\\cber reactor\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE5176C-470E-ADA7-A6B4-D4644CFE870E}|CBER Reactor\\CBER Reactor.csproj|solutionrelative:cber reactor\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DE5176C-470E-ADA7-A6B4-D4644CFE870E}|CBER Reactor\\CBER Reactor.csproj|c:\\users\\sebas\\onedrive - htl-donaustadt.at\\pos1\\z_eigene programme privat\\cber reactor\\cber-reactor\\cber reactor\\models\\chamber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE5176C-470E-ADA7-A6B4-D4644CFE870E}|CBER Reactor\\CBER Reactor.csproj|solutionrelative:cber reactor\\models\\chamber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE5176C-470E-ADA7-A6B4-D4644CFE870E}|CBER Reactor\\CBER Reactor.csproj|c:\\users\\sebas\\onedrive - htl-donaustadt.at\\pos1\\z_eigene programme privat\\cber reactor\\cber-reactor\\cber reactor\\models\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE5176C-470E-ADA7-A6B4-D4644CFE870E}|CBER Reactor\\CBER Reactor.csproj|solutionrelative:cber reactor\\models\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE5176C-470E-ADA7-A6B4-D4644CFE870E}|CBER Reactor\\CBER Reactor.csproj|c:\\users\\sebas\\onedrive - htl-donaustadt.at\\pos1\\z_eigene programme privat\\cber reactor\\cber-reactor\\cber reactor\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE5176C-470E-ADA7-A6B4-D4644CFE870E}|CBER Reactor\\CBER Reactor.csproj|solutionrelative:cber reactor\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE5176C-470E-ADA7-A6B4-D4644CFE870E}|CBER Reactor\\CBER Reactor.csproj|c:\\users\\sebas\\onedrive - htl-donaustadt.at\\pos1\\z_eigene programme privat\\cber reactor\\cber-reactor\\cber reactor\\models\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Chamber.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive - htl-donaustadt.at\\POS1\\Z_Eigene Programme PRIVAT\\CBER Reactor\\CBER-Reactor\\CBER Reactor\\Models\\Chamber.cs",
+              "RelativeDocumentMoniker": "CBER Reactor\\Models\\Chamber.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive - htl-donaustadt.at\\POS1\\Z_Eigene Programme PRIVAT\\CBER Reactor\\CBER-Reactor\\CBER Reactor\\Models\\Chamber.cs",
+              "RelativeToolTip": "CBER Reactor\\Models\\Chamber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T08:00:48.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MetaData.cs",
               "DocumentMoniker": "C:\\Users\\sebas\\OneDrive - htl-donaustadt.at\\POS1\\Z_Eigene Programme PRIVAT\\CBER Reactor\\CBER-Reactor\\CBER Reactor\\Models\\MetaData.cs",
               "RelativeDocumentMoniker": "CBER Reactor\\Models\\MetaData.cs",
@@ -49,20 +66,20 @@
               "RelativeDocumentMoniker": "CBER Reactor\\Models\\Core.cs",
               "ToolTip": "C:\\Users\\sebas\\OneDrive - htl-donaustadt.at\\POS1\\Z_Eigene Programme PRIVAT\\CBER Reactor\\CBER-Reactor\\CBER Reactor\\Models\\Core.cs",
               "RelativeToolTip": "CBER Reactor\\Models\\Core.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T07:06:58.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sebas\\OneDrive - htl-donaustadt.at\\POS1\\Z_Eigene Programme PRIVAT\\CBER Reactor\\CBER-Reactor\\CBER Reactor\\Main\\Program.cs",
               "RelativeDocumentMoniker": "CBER Reactor\\Main\\Program.cs",
               "ToolTip": "C:\\Users\\sebas\\OneDrive - htl-donaustadt.at\\POS1\\Z_Eigene Programme PRIVAT\\CBER Reactor\\CBER-Reactor\\CBER Reactor\\Main\\Program.cs",
               "RelativeToolTip": "CBER Reactor\\Main\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T07:04:58.061Z",
               "EditorCaption": ""

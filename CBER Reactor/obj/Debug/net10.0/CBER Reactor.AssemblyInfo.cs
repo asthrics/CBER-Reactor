@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CBER Reactor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f1b82f0622fc1c233df71ac4ca939a75417678b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbd0ef1895d872b16532bc0fd3284fc9a26ea75c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CBER Reactor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CBER Reactor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
